@@ -5,4 +5,4 @@ A simple Noughts and Crosses game
 List of Libraries used:<br>
 * Tkinter<br>
 * Webbrowser<br><br>
->yet to be uploaded 
+>©Aniket Maity 2022 All Rights Reserved. All other domain, brand information and trademarks are the registered trademarks of their respective owners.
