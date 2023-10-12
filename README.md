@@ -7,4 +7,4 @@ List of Libraries used:<br>
 * Tkinter<br>
 * Webbrowser<br>
 
->©Aniket Maity 2022 All Rights Reserved. All other domain, brand information and trademarks are the registered trademarks of their respective owners.
+>© 2022 Aniket Maity All Rights Reserved. All other domain, brand information and trademarks are the registered trademarks of their respective owners.
